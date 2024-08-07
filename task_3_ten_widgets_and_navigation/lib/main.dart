@@ -8,6 +8,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Identity Form Application',
       home: MyHomePage(),
+      
     );
   }
 }
